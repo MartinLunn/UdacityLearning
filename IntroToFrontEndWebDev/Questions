@@ -1,0 +1,7 @@
+Questions:
+Is it better to use
+  ids (MOST SPECIFIC, APPLIES ALWAYS IF PRESENT)
+  labels (is that a thing in html, or only latex)
+  or classes
+
+when isolating things for css?
